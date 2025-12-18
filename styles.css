@@ -306,6 +306,7 @@ BANDMEDLEMMAR
     border-bottom: 4px solid #ff6600;
 
     padding-bottom: 10px;
+    
 
 }
 
@@ -319,11 +320,14 @@ BANDMEDLEMMAR
     margin-bottom: 20px;
 
     width: 48%;
+    height:  450px ;
     display: inline-block;
 
     margin-right: 3%;
+    border: 4px solid #ff6600;
 
     vertical-align: top
+    
 }
 
 
